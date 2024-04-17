@@ -1,7 +1,5 @@
 # rooms
 
-![](https://raw.githubusercontent.com/cxxxr/lem-icon/gh-pages/lem-header-light.png)
-
 Powerful web-based Editor with collaborative editing
 
 ## What is this?
