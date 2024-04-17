@@ -19,7 +19,7 @@ It also supports editing the same file across different devices (Linux, macOS, i
 Invite others to your room, and collaborate seamlessly on a single instance of Lem.
 
 ## Project Status
-This project is in its alpha stage.
+This project is in its alpha stage.  
 So, it comes with a limitation that only those who have been invited can create rooms.
 
 ## Technology stack
