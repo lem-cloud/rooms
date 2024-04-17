@@ -4,6 +4,10 @@ Powerful web-based Editor with collaborative editing
 ## What is this?
 This project is to provide the text editor [Lem](https://github.com/lem-project/lem) as a web service.
 
+When a user creates a room, an instance of Lem is launched in that room.
+In this room, the user can freely use the complete Common Lisp environment.
+
+All you need is a web browser and a GitHub account.
 In Rooms, when a user creates a "room" an instance of Lem is launched.
 Users can then utilize a complete Common Lisp environment within their web browser.
 No installation of dependent libraries or local build environments is required.
