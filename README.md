@@ -20,6 +20,7 @@ Invite others to your room, and collaborate seamlessly on a single instance of L
 
 ## Project Status
 This project is in its alpha stage.
+So, it comes with a limitation that only those who have been invited can create rooms.
 
 ## Technology stack
 The technology stack is almost entirely Common Lisp.
