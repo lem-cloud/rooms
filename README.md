@@ -1,4 +1,4 @@
-# rooms
+# Rooms
 
 Powerful web-based Editor with collaborative editing
 
