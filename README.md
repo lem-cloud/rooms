@@ -1,7 +1,8 @@
 # rooms
-Powerful web-based Editor with collaborative editing
 
 ![](https://raw.githubusercontent.com/cxxxr/lem-icon/gh-pages/lem-header-light.png)
+
+Powerful web-based Editor with collaborative editing
 
 ## What is this?
 This project is to provide the text editor [Lem](https://github.com/lem-project/lem) as a web service.
